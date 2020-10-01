@@ -1,0 +1,1 @@
+This project creates a library which allows users to add, store and remove lists of books read.
